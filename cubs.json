@@ -20,7 +20,7 @@
     "firstName" : "Kyle",
     "lastName" : "Schwarber",
     "opCo" : "ACS",
-    "email" : "kb@cubs.com",
+    "email" : "kschwarber@cubs.com",
     "cellPhone" : "3125550003"
 },
 {
@@ -30,6 +30,38 @@
     "opCo" : "MLA",
     "email" : "jarrietta@cubs.com",
     "cellPhone" : "3125550004"
+},
+{
+    "employeeId" : "229955333",
+    "firstName" : "Ben",
+    "lastName" : "Zobrist",
+    "opCo" : "ACS",
+    "email" : "bzobs@cubs.com",
+    "cellPhone" : "3125550233"
+},
+{
+    "employeeId" : "669922773",
+    "firstName" : "Addison",
+    "lastName" : "Russel",
+    "opCo" : "TEKsystems",
+    "email" : "addy@cubs.com",
+    "cellPhone" : "3125558230"
+},
+{
+    "employeeId" : "003294711",
+    "firstName" : "Wilson",
+    "lastName" : "Contreras",
+    "opCo" : "MLA",
+    "email" : "wilson@cubs.com",
+    "cellPhone" : "3125551111"
+},
+{
+    "employeeId" : "928374650",
+    "firstName" : "John",
+    "lastName" : "Lester",
+    "opCo" : "AGS",
+    "email" : "john@cubs.com",
+    "cellPhone" : "3125559215"
 },
 {
     "employeeId" : "300922821",
