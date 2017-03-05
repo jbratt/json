@@ -2,13 +2,36 @@
 {
     "firstName" : "Anthony",
     "lastName" : "Rizzo",
+    "opCo" : "Aerotek",
     "email" : "arizzo@cubs.com",
     "cellPhone" : "3125550001"
 },
 {
     "firstName" : "Kris",
     "lastName" : "Bryant",
+    "opCo" : "TEKsystems",
     "email" : "kb@cubs.com",
     "cellPhone" : "3125550002"
+},
+{
+    "firstName" : "Kyle",
+    "lastName" : "Schwarber",
+    "opCo" : "ACS",
+    "email" : "kb@cubs.com",
+    "cellPhone" : "3125550003"
+},
+{
+    "firstName" : "Jake",
+    "lastName" : "Arrietta",
+    "opCo" : "MLA",
+    "email" : "jarrietta@cubs.com",
+    "cellPhone" : "3125550004"
+},
+{
+    "firstName" : "Javier",
+    "lastName" : "Baez",
+    "opCo" : "AGS",
+    "email" : "jbaez@cubs.com",
+    "cellPhone" : "3125550005"
 }
 ]
